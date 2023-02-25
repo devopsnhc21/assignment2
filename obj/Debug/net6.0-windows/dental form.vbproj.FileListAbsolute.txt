@@ -1,0 +1,23 @@
+C:\Users\31\source\repos\dental form\bin\Debug\net6.0-windows\dental form.exe
+C:\Users\31\source\repos\dental form\bin\Debug\net6.0-windows\dental form.deps.json
+C:\Users\31\source\repos\dental form\bin\Debug\net6.0-windows\dental form.runtimeconfig.json
+C:\Users\31\source\repos\dental form\bin\Debug\net6.0-windows\dental form.dll
+C:\Users\31\source\repos\dental form\bin\Debug\net6.0-windows\dental form.pdb
+C:\Users\31\source\repos\dental form\obj\Debug\net6.0-windows\dental form.vbproj.AssemblyReference.cache
+C:\Users\31\source\repos\dental form\obj\Debug\net6.0-windows\MainWindow.g.vb
+C:\Users\31\source\repos\dental form\obj\Debug\net6.0-windows\Application.g.vb
+C:\Users\31\source\repos\dental form\obj\Debug\net6.0-windows\dental form_MarkupCompile.cache
+C:\Users\31\source\repos\dental form\obj\Debug\net6.0-windows\dental form_MarkupCompile.lref
+C:\Users\31\source\repos\dental form\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\31\source\repos\dental form\obj\Debug\net6.0-windows\dental form.g.resources
+C:\Users\31\source\repos\dental form\obj\Debug\net6.0-windows\dental_form.Form1.resources
+C:\Users\31\source\repos\dental form\obj\Debug\net6.0-windows\dental form.vbproj.GenerateResource.cache
+C:\Users\31\source\repos\dental form\obj\Debug\net6.0-windows\dental form.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\31\source\repos\dental form\obj\Debug\net6.0-windows\dental form.AssemblyInfoInputs.cache
+C:\Users\31\source\repos\dental form\obj\Debug\net6.0-windows\dental form.AssemblyInfo.vb
+C:\Users\31\source\repos\dental form\obj\Debug\net6.0-windows\dental form.vbproj.CoreCompileInputs.cache
+C:\Users\31\source\repos\dental form\obj\Debug\net6.0-windows\dental form.dll
+C:\Users\31\source\repos\dental form\obj\Debug\net6.0-windows\refint\dental form.dll
+C:\Users\31\source\repos\dental form\obj\Debug\net6.0-windows\dental form.pdb
+C:\Users\31\source\repos\dental form\obj\Debug\net6.0-windows\dental form.genruntimeconfig.cache
+C:\Users\31\source\repos\dental form\obj\Debug\net6.0-windows\ref\dental form.dll
